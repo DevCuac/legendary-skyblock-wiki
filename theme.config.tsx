@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/ZenForge-Studios',
   },
   chat: {
-    link: 'https://discord.gg/ThVDHfvqxH',
+    link: 'https://discord.gg/C4jRQJyWfZ',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
