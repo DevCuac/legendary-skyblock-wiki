@@ -10,7 +10,37 @@ A **simple**, **powerful** and **flexible** site generation framework with every
 
 The documentation is available at [https://nextra.site](https://nextra.site).
 
-> [!TEST NOTE]
+### Card
+
+<APIDocs componentName="Cards.Card" />
+
+export async function CardsPage() {
+  const mdx2 = `<Cards.Card
+  icon={<BoxIcon />}
+  title="About Nextra"
+  href="/about"
+  arrow
+/>`
+  const mdx = `
+<Cards>
+  <Cards.Card
+    icon={<WarningIcon />}
+    title="Callout"
+    href="/docs/built-ins/callout"
+  />
+  <Cards.Card
+    icon={<CardsIcon />}
+    title="Tabs"
+    href="/docs/built-ins/tabs"
+  />
+  <Cards.Card
+    icon={<OneIcon />}
+    title="Steps"
+    href="/docs/built-ins/steps"
+  />
+</Cards>`
+
+> [!TIP]
 >
-> If you already have Next.js installed in your project, you only need to
-> install `nextra` and `nextra-theme-docs` as the add-ons.
+> Line test #1
+> Line test #2
