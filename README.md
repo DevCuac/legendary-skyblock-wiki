@@ -1,23 +1,47 @@
-# Nextra Docs Template 
+# Legendary Skyblock Wiki | By ZenForge Studios
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Bienvenido a la Wiki oficial de Legendary Skyblock, una modalidad desarrollada por ZenForge Studios.
+Este sitio sirve como fuente centralizada de información para jugadores, staff y colaboradores.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+Ir a la Wiki →
+[**See Page →**](https://https://wiki.legendx.space)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[![](.github/screenshot.png)](https://https://wiki.legendx.space)
 
-## Quick Start
+## 🌍 ¿Qué es Legendary Skyblock?
 
-Click the button to clone this repository and deploy it on Vercel:
+Legendary Skyblock es una modalidad única que reinventa el clásico modo Skyblock con un enfoque en progresión, automatización, y economía avanzada. Nuestro objetivo es ofrecer una experiencia desafiante, balanceada y adictiva tanto para jugadores nuevos como veteranos.
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+Algunas de sus características principales:
 
-## Local Development
+Sistema de misiones y progresión guiada.
 
-First, run `pnpm i` to install the dependencies.
+Economía dinámica y balanceada.
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+Sistemas de mobs personalizados y jefes.
 
-## License
+Automatizaciones y mejoras tecnológicas dentro del juego.
 
-This project is licensed under the MIT License.
+Eventos especiales y contenido exclusivo por temporadas.
+
+## 📚 Contenido de esta wiki
+
+Aquí encontrarás:
+
+Guías paso a paso para progresar en el servidor.
+
+Detalles técnicos sobre cada sistema y mecánica.
+
+Preguntas frecuentes y soluciones a problemas comunes.
+
+Información sobre eventos, temporadas y recompensas.
+
+Consejos de juego y estrategias de expertos.
+
+## 📩 ¿Preguntas o sugerencias?
+
+Si tenés dudas, sugerencias o encontrás errores en la wiki, contactanos a través de nuestros canales oficiales o abrí un issue en el repositorio correspondiente.
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo los términos de la MIT License.
