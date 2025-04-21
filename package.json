@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "nextra-docs-template",
   "version": "0.0.1",
-  "description": "Wiki by ZenForge Studios",
+  "description": "Nextra docs template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
