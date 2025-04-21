@@ -12,31 +12,31 @@ Ir a la Wiki →
 
 Legendary Skyblock es una modalidad única que reinventa el clásico modo Skyblock con un enfoque en progresión, automatización, y economía avanzada. Nuestro objetivo es ofrecer una experiencia desafiante, balanceada y adictiva tanto para jugadores nuevos como veteranos.
 
-Algunas de sus características principales:
+- Algunas de sus características principales:
 
-Sistema de misiones y progresión guiada.
+- Sistema de misiones y progresión guiada.
 
-Economía dinámica y balanceada.
+- Economía dinámica y balanceada.
 
-Sistemas de mobs personalizados y jefes.
+- Sistemas de mobs personalizados y jefes.
 
-Automatizaciones y mejoras tecnológicas dentro del juego.
+- Automatizaciones y mejoras tecnológicas dentro del juego.
 
-Eventos especiales y contenido exclusivo por temporadas.
+- Eventos especiales y contenido exclusivo por temporadas.
 
 ## 📚 Contenido de esta wiki
 
 Aquí encontrarás:
 
-Guías paso a paso para progresar en el servidor.
+- Guías paso a paso para progresar en el servidor.
 
-Detalles técnicos sobre cada sistema y mecánica.
+- Detalles técnicos sobre cada sistema y mecánica.
 
-Preguntas frecuentes y soluciones a problemas comunes.
+- Preguntas frecuentes y soluciones a problemas comunes.
 
-Información sobre eventos, temporadas y recompensas.
+- Información sobre eventos, temporadas y recompensas.
 
-Consejos de juego y estrategias de expertos.
+- Consejos de juego y estrategias de expertos.
 
 ## 📩 ¿Preguntas o sugerencias?
 
