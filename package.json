@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "wiki-by-zfs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Wiki by ZenForge Studios",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
